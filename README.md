@@ -5,7 +5,7 @@
 
 ### Project Title or Name of the Application	:
 ### Section			   	      : 9-Sodium
-### Group Members			    : Cortez, Riley Alexander C. Cortez, Javier Goyena, Syeira Dyana De La Rosa
+### Group Members			    : Riley Alexander C. Cortez, Javier Goyena, Syeira Dyana De La Rosa
 ### Date (Proposal Date)  : Nov 5, 2026
 
 ### Project Description:
