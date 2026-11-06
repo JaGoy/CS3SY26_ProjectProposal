@@ -4,7 +4,7 @@
 ## Project Proposal Template:
 
 ### Project Title or Name of the Application	:
-### Section			   	      :
+### Section			   	      : 9-Sodium
 ### Group Members			    :
 ### Date (Proposal Date)  : Nov 5, 2026
 
