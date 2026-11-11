@@ -3,12 +3,14 @@
 
 ## Project Proposal Template:
 
-### Project Title or Name of the Application	:
+### Project Title or Name of the Application	: Lab Equipment Tracker
 ### Section			   	      : 9-Sodium
 ### Group Members			    : Riley Alexander C. Cortez, Javier Goyena, Syeira Dyana De La Rosa
 ### Date (Proposal Date)  : Nov 5, 2026
 
 ### Project Description:
+
+The program will be a lab equipment tracker that stores items and information on them. 
 
 - A brief summary of the project description and the need for it.
 
