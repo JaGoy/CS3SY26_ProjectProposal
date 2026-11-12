@@ -18,7 +18,7 @@
 
 - The description is then followed by the class diagram, depicting clearly what was described.
 
-The program will be a lab equipment and chemicals tracker that stores items and information on them. It will allow the user to view items and details such as the name, amount available, and capacity of a container. Items can be in different cabinets and can be removed or added to them. 
+The program will be a lab equipment and chemicals tracker that stores items and information on them. It will allow the user to view items and details such as the name, amount available, and capacity of a container. Items can be in different cabinets and can be removed or added to them. The target demographic would be lab assistants.
 
 **Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
 
