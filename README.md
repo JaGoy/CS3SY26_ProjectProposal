@@ -18,7 +18,7 @@
 
 - The description is then followed by the class diagram, depicting clearly what was described.
 
-The program will be a lab equipment and chemicals tracker that stores items and information on them. It will allow the user to view items and details such as the name, amount available, and capacity of a container. Items can be in different cabinets and can be removed or added to them. The target demographic would be lab assistants.
+The program will be a lab equipment and chemicals tracker that stores items and information on them. It will allow the user to view items and details such as the name, amount available, and capacity of a container. Items can be in different cabinets and can be removed or added to them. The target demographic for the project would be lab assistants or anyone who works in a laboratory.
 
 **Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
 
@@ -28,8 +28,11 @@ The program will be a lab equipment and chemicals tracker that stores items and 
 
 Describe the long term outcomes of your project followed by a couple of objectives to meet the goals stated in this paragraph
 
-- Objective 1:
-- Objective 2:
-- Objective n:
+The long term outcomes of the project are to make a functional, easily accessible, and quick method for individuals working in a lab to keep track of what type and how much equipment and chemicals are available for use. The goal is to make it easier and more convenient for them to keep inventory of all their lab equipment and chemicals by keeping track of it digitally rather than counting manually every single time. 
+
+- Objective 1: Develop code that can properly store all the necessary details for the equipment and chemicals.
+- Objective 2: Create functions that allow users to add, take, and update the inventory when needed.
+- Objective 3: Ensure that all the lab items are properly tracked without computational errors.
+- Objective 4: Design the program to be easy to use and understand for all users.
 
 [Click here for Rubrics and Sample projects](https://docs.google.com/document/d/1xKd1CqK6DcNWS2_oJPBNtY5n3I3Hqiw8FY3W295Iqfk/edit?usp=sharing)
