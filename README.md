@@ -1,20 +1,12 @@
-# CS3SY26_ProjectProposal by Aline Teresa Mendoza from CS Unit
+# CS3SY26_ProjectProposal by Sodium Group 9
 
 
-### Project Title or Name of the Application	: Lab Equipment and Chemicals Tracker
+### Project Title	: Lab Equipment and Chemicals Tracker
 ### Section			   	      : 9-Sodium
 ### Group Members			    : Riley Alexander C. Cortez, Javier Goyena, Syeira Dyana De La Rosa
-### Date (Proposal Date)  : Nov 5, 2026
+### Date (Proposal Date)  : Nov 13, 2026
 
 ### Project Description:
-
-- A brief summary of the project description and the need for it.
-
-- Describes system components, features, and expected outputs clearly and logically. NOTE: Clearly described the elements(classes), their attributes and methods and how they will interact with each other.
-
-- Include the description as well of your target demographics as the user of your application. 
-
-- The description is then followed by the class diagram, depicting clearly what was described.
 
 The program will be a lab equipment and chemicals tracker that stores items and information on them. It will allow the user to view items and details such as the name, amount available, and capacity of a container. Items can be in different cabinets and can be removed or added to them. 
 
@@ -35,6 +27,7 @@ The Measuring class represents any object under the Equipment class and is used 
 
 The target demographic for the project would be lab assistants or anyone who works in a laboratory, allowing them to more effectively track available materials.
 
+### Class Diagram:
 <img width="325" height="278" alt="Screenshot 2026-11-13 150459" src="https://github.com/user-attachments/assets/024f14da-1c4b-4829-88ef-819eec01047e" />
 
 ### Goals:
