@@ -18,6 +18,12 @@
 
 The program will be a lab equipment and chemicals tracker that stores items and information on them. It will allow the user to view items and details such as the name, amount available, and capacity of a container. Items can be in different cabinets and can be removed or added to them. 
 
+The program has 6 classes in total: Cabinet, Item, Chemical, Equipment, Container, and Measuring. 
+
+The Cabinet class represents a storage unit in the laboratory. It has two attributes: capacity, a private integer attribute representing the number of items the cabinet can hold, and items, a private list attribute representing all the materials in the cabinet. It also has two methods: remove, which removes an item from the items list, and add, which adds an item in the items list.
+
+The Item class represent any object that is tracked in the inventory. It has an aggregation relationship with the Cabinet class, where one Cabinet has zero or more item objects. It is also the parent class of the Chemical and Equipment class. The class has two attributes: name, a private string attribute representing the name of the item, and amount, a private integer attribute representing the number of items in the cabinet.
+
 The target demographic for the project would be lab assistants or anyone who works in a laboratory, allowing them to more effectively track available materials.
 
 <img width="325" height="278" alt="Screenshot 2026-11-13 150459" src="https://github.com/user-attachments/assets/024f14da-1c4b-4829-88ef-819eec01047e" />
