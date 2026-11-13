@@ -20,9 +20,7 @@ The program will be a lab equipment and chemicals tracker that stores items and 
 
 The target demographic for the project would be lab assistants or anyone who works in a laboratory, allowing them to more effectively track available materials.
 
-**Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
-
-![Sample Diagram](https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png)
+<img width="325" height="278" alt="Screenshot 2026-11-13 150459" src="https://github.com/user-attachments/assets/024f14da-1c4b-4829-88ef-819eec01047e" />
 
 ### Goals:
 
